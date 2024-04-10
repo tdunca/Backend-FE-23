@@ -12,9 +12,9 @@ There has to be a special channel called broadcast that is permanent. Everyone c
 Endpoints
 The Api needs to contain the following end points:
 
-GET /api/broadcast - retrieve all messages sent to the broadcast channel
-POST /api/broadcast - create a new message in the broadcast channel
-GET /api/channel/ - retrieve a list of all the channels
-GET /api/channel/:id - retrieves a message in a specific channel
-PUT /api/channel/ - creates a new channel. The channel name needs to be included
-POST /api/channel/:id - create a new message in a specific, previously created channel. The content in a message needs to be at least user and text
+- GET /api/broadcast - retrieve all messages sent to the broadcast channel
+- POST /api/broadcast - create a new message in the broadcast channel
+- GET /api/channel/ - retrieve a list of all the channels
+- GET /api/channel/:id - retrieves a message in a specific channel
+- PUT /api/channel/ - creates a new channel. The channel name needs to be included
+- POST /api/channel/:id - create a new message in a specific, previously created channel. The content in a message needs to be at least user and text
