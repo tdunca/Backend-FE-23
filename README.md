@@ -18,3 +18,9 @@ The Api needs to contain the following end points:
 - GET /api/channel/:id - retrieves a message in a specific channel
 - PUT /api/channel/ - creates a new channel. The channel name needs to be included
 - POST /api/channel/:id - create a new message in a specific, previously created channel. The content in a message needs to be at least user and text
+
+### Usage
+
+To run the application locally:
+
+node app.js
