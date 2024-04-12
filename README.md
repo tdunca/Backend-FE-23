@@ -1,6 +1,6 @@
 # About the project
 
-This repository contains the sorce code for my backend-assignment.
+This repository contains the sorce code for my back end course assignment.
 It was a mandatory assignment for my ongoing education in FrontEnd-Developing.
 Thunder Client was used to demonstrate functions, since the project does not have any Front-End.
 
