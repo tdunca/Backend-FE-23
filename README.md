@@ -1,8 +1,8 @@
 # About the project
 
 This repository contains the sorce code for my back end course assignment.
-It was a mandatory assignment for my ongoing education in FrontEnd-Developing.
-Thunder Client is used to demonstrate functions, since the project does not have any Front-End.
+It was a mandatory assignment for my ongoing education in FrontEnd-Developing. 
+I used ThunderClient to demonstrate functions, since the project does not have any Front-End.
 
 ### Requirements:
 
