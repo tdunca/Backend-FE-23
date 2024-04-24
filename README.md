@@ -3,6 +3,7 @@
 This repository contains the sorce code for my back end course assignment.
 It was a mandatory assignment for my ongoing education in FrontEnd-Developing. 
 I used ThunderClient to demonstrate functions, since the project does not have any Front-End.
+![backend](https://github.com/tdunca/Backend-FE-23/assets/146927903/cd87a74b-3d6d-4627-8c21-2a59566b7819)
 
 ### Requirements:
 
